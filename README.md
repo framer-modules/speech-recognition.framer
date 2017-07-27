@@ -21,7 +21,7 @@ Speech API, Audio API를 활용한 음성인식과 시각화
 <br/>
 
 ## 예제코드
-```coffescript
+```coffeescript
 # 배경
 Screen.backgroundColor = "#E9EBEE"
  
