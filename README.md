@@ -3,8 +3,13 @@ Speech API, Audio API를 활용한 음성인식과 시각화
 
 <br/>
 
+데모 : https://framer-modules.github.io/speech-recognition.framer/  
+> **Web Speech API와 Audio API는 크롬 브라우저(버전 33이상)에서 정상 동작합니다.**  
+
+<br/>
+
 ## 미리보기
-> Web Speech API와 Audio API는 크롬 브라우저(버전 33이상)에서 정상 동작합니다.  
+
 
 <br/>
 
